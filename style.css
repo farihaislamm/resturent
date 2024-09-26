@@ -222,6 +222,11 @@ border-color: orangered;
     background-size: cover;
     height: auto;
 }
+.tittle{
+    background: url(./images/photo-1619252584172-a83a949b6efd.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
 
 .your-class{
     justify-content: center;
@@ -378,8 +383,8 @@ form select, form input{
     font-style: bold;
  }
  .feature_img img{
-    height: 100px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
     transition: 1s;
     overflow: hidden;
  }
