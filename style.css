@@ -620,6 +620,9 @@ form select, form input{
                                         display: none;
                                         float: none;
                                     }
+                                    .trusted{
+                                        display: none;
+                                    }
                                    
                                   .hero_area img{
                                     height: 200px;
