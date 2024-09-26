@@ -348,7 +348,7 @@ form select, form input{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 45px;
+    font-size: 15px;
  }
 
                         /* form section close  */
@@ -480,6 +480,10 @@ form select, form input{
 }
 .menu_side ul li a:hover{
     color: #f2745f;
+}
+.our_menu{
+    height: auto;
+    
 }
                         /* our_menu section start  */
                         /* bottom_slick section start  */
