@@ -433,6 +433,23 @@ form select, form input{
     justify-content: center;
      gap: 10px;
 }
+.trusted img{
+    height: 80px;
+    width: 110px;
+}
+.trusted{
+    justify-content: center;
+    display: flex;
+    width: 1200px;
+    margin: auto;
+}
+.trusted_heading h1{
+    text-align: center;
+    font-weight: 600px;
+}
+.trusted_heading h4{
+    text-align: center;
+}
   .menu_side ul li a{
     color: black;
     font-size: 18px;
@@ -508,6 +525,7 @@ form select, form input{
     background-size: cover;
     background-repeat: no-repeat;
     background-blend-mode: darken;
+    padding: 10px;
 }
                             /* bottom_slick section close  */
                             /* instagram section start  */
